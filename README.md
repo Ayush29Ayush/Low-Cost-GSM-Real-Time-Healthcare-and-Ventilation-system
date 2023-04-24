@@ -27,9 +27,9 @@ Ambu Bag
 #SOFTWARE AND TOOLS:
 
 Arduino IDE
-IFTTT
 Thingspeak
-Eagle
+Blynk App
+React.Js
 
 
 
